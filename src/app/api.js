@@ -1,5 +1,5 @@
 export function searchUniversityByNameAPI (name) {
-    return fetch('https://universities.hipolabs.com/search?name=' + name)
+    return fetch('https://cors-anywhere.herokuapp.com/http://universities.hipolabs.com/search?name=' + name)
       .then((response) => { 
           return response.json().then((data) => {
               return data;

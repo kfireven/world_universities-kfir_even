@@ -29,7 +29,6 @@ function Universities() {
 
     const searchUniversities = (name) => {
         dispatch(searchUniversity(name));
-        console.log(universitiesList);
     }
 
     return (
