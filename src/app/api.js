@@ -1,5 +1,5 @@
 export function searchUniversityByNameAPI (name) {
-    return fetch('http://universities.hipolabs.com/search?name=' + name)
+    return fetch('https://universities.hipolabs.com/search?name=' + name)
       .then((response) => { 
           return response.json().then((data) => {
               return data;
