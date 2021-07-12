@@ -1,0 +1,27 @@
+@import '../../styles/variables/variables.scss';
+
+.universities {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 70%;
+    width: 80%;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.search-table {
+    margin-top: 3%;
+    height: 90%;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    scrollbar-color: $defualt-blue #e3efff;
+}
