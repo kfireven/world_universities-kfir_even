@@ -35,7 +35,7 @@ function Universities() {
         <div className="universities">
             <Form className="search-bar">
                 <FormControl type="text" placeholder="Search" value={searchValue} onChange={e => setSearchValue(e.target.value)}/>
-                <Button variant="primary" onClick={ _ => searchUniversities(searchValue) }>Search</Button>
+                <Button variant="primary" disabled={searchValue.length < 2} onClick={ _ => searchUniversities(searchValue) }>Search</Button>
             </Form>
             <div className="search-table scroll-area">
             <Table>

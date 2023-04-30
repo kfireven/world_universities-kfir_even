@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/world_universities-kfir_even/static/css/main.e0a51f82.chunk.css",
+    "main.js": "/world_universities-kfir_even/static/js/main.6c9f419f.chunk.js",
+    "main.js.map": "/world_universities-kfir_even/static/js/main.6c9f419f.chunk.js.map",
+    "runtime-main.js": "/world_universities-kfir_even/static/js/runtime-main.e284a672.js",
+    "runtime-main.js.map": "/world_universities-kfir_even/static/js/runtime-main.e284a672.js.map",
+    "static/js/2.bddce99c.chunk.js": "/world_universities-kfir_even/static/js/2.bddce99c.chunk.js",
+    "static/js/2.bddce99c.chunk.js.map": "/world_universities-kfir_even/static/js/2.bddce99c.chunk.js.map",
+    "index.html": "/world_universities-kfir_even/index.html",
+    "static/css/main.e0a51f82.chunk.css.map": "/world_universities-kfir_even/static/css/main.e0a51f82.chunk.css.map",
+    "static/js/2.bddce99c.chunk.js.LICENSE.txt": "/world_universities-kfir_even/static/js/2.bddce99c.chunk.js.LICENSE.txt",
+    "static/media/loginStyles.scss": "/world_universities-kfir_even/static/media/homepage.b4a7852b.svg",
+    "static/media/logo.e807720c.png": "/world_universities-kfir_even/static/media/logo.e807720c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e284a672.js",
+    "static/js/2.bddce99c.chunk.js",
+    "static/css/main.e0a51f82.chunk.css",
+    "static/js/main.6c9f419f.chunk.js"
+  ]
+}
